@@ -5,7 +5,7 @@
   <parameter name="Title" class="java.lang.String"/>
   <queryString><![CDATA[select Department_ID, Deptment_Name from Departments]]></queryString>
   <field name="Department No" class="java.lang.String"/>
-  <field name="Department Name" class="java.lang.Double"/>
+  <field name="Department Name" class="java.lang.String"/>
   <title>
     <band height="50">
       <textField>
